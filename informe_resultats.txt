@@ -1,7 +1,7 @@
 ﻿=========================================
 INFORME EXECUTIU - GIMNÀS I FITNESS (AC4)
 =========================================
-Data de generació: 2026-10-31 18:17
+Data de generació: 2026-11-01 21:25
 Cobertura: 90 / 120 registres vàlids (30 rebutjats)
 
 INDICADORS GLOBALS:
@@ -9,7 +9,7 @@ INDICADORS GLOBALS:
 - Total registres vàlids: 90
 - Total registres rebutjats: 30
 - Suma total participants: 3534
-- Durada mitjana per activitat: 107.16 min
+- Durada mitjana per activitat: 106.68 min
 
 DESGLOSSAMENT PER TIPUS D'ACTIVITAT:
 - Quota: 483
